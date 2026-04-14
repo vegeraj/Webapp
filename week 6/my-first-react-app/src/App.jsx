@@ -7,25 +7,25 @@ function App() {
     {
       id: 1,
       name: "Sarah Johnson",
-      bio: "Frontend developer specializing in React and modern web technologies. Passionate about creating accessible and user-friendly interfaces.",
+      bio: "Frontend developer",
       imageUrl: "https://picsum.photos/200?random=1"
     },
     {
       id: 2,
-      name: "Michael Chen",
-      bio: "Full-stack engineer with expertise in Node.js and database design. Loves solving complex problems and optimizing performance.",
+      name: "Michael Smith",
+      bio: "Full-stack engineer",
       imageUrl: "https://picsum.photos/200?random=2"
     },
     {
       id: 3,
       name: "Emma Williams",
-      bio: "UX/UI designer turned developer. Focused on bridging the gap between design and code to create beautiful digital experiences.",
+      bio: "UI designer",
       imageUrl: "https://picsum.photos/200?random=3"
     },
     {
       id: 4,
-      name: "David Rodriguez",
-      bio: "Backend specialist with a passion for cloud architecture and DevOps. Always looking for ways to improve system reliability.",
+      name: "David Spark",
+      bio: "Backend developer",
       imageUrl: "https://picsum.photos/200?random=4"
     }
   ]
